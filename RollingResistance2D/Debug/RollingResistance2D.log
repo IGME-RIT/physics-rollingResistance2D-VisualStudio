@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level10\physics-rollingresistance2d-mastervs2019\rollingresistance2d\main.cpp(960): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level10\physics-rollingresistance2d-mastervs2019\rollingresistance2d\main.cpp(996): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\njp2424\desktop\physics\level10\physics-rollingresistance2d-mastervs2019\rollingresistance2d\main.cpp(1011): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RollingResistance2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level10\physics-rollingResistance2D-masterVS2019\RollingResistance2D\Debug\RollingResistance2D.exe
